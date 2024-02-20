@@ -1,5 +1,5 @@
-This is an app i created for my Final Year Project, Computer Science following a tutorial from https://youtu.be/bbizRxjyz64?si=rJUHFoHTooocbBLn, where i made a few modifications of my own.
-The Github link is https://github.com/SSA-988/employee-app. ( That is for the original version of this app where i followed the tutorial from )
+This is an Employee Salary and Management app i created for my Final Year Project, Computer Science following a tutorial from https://youtu.be/bbizRxjyz64?si=rJUHFoHTooocbBLn, where i made a few modifications of my own.
+
 
 To run the following app, 
 1. Clone the repository and cd into the project folder.
