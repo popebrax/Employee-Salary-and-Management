@@ -15,4 +15,4 @@ PLEASE NOTE: When using the expo go app, you need to connect your pc via a hotsp
   .connect("mongodb+srv://<your-cluster-name>:<your-password>.dgyyr9a.mongodb.net/"]     
 7. Then create a new terminal and cd into api folder then do 'npm start'
 8. With this everything should run ok.  
-9. My portfolio is njadaka.github.io, if you want to link up for a project, reach out
+9. My portfolio is https://njdaka.github.io/, if you want to link up for a project, reach out
