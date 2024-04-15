@@ -1,4 +1,4 @@
-This is an Employee Salary and Management app i created for my Final Year Project, Computer Science following a tutorial from https://youtu.be/bbizRxjyz64?si=rJUHFoHTooocbBLn, where i made a few modifications of my own.
+This is an Employee Salary and Management app i created for my Final Year Project, Computer Science .
 
 
 To run the following app, 
